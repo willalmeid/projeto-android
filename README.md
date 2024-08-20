@@ -1,7 +1,14 @@
 <h1 align="center"> Projeto Android </h1>
 
-O Projeto Android é um site com a temática baseada no sistema operacional <strong>Android</strong> que apresenta brevemente a história do Mascote do Android.<br><br>
+O Projeto Android é um site com a temática baseada no sistema operacional <strong>Android</strong> que apresenta brevemente a história do Mascote do Android.
+
+<br>
+
 Este foi um dos projetos do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+
+<br>
+
+<p align="center"><a href="https://willalmeid.github.io/projeto-android/">Acesse o projeto</a></p>
 
 
 ## Tecnologias 🤖
