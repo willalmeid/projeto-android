@@ -1,5 +1,9 @@
 <h1 align="center"> Projeto Android </h1>
 
+<p align="center">
+   <img src="./imagens/imagem-preview.jpg">
+</p>
+
 O Projeto Android é um site com a temática baseada no sistema operacional <strong>Android</strong> que apresenta brevemente a história do Mascote do Android.
 
 <br>
