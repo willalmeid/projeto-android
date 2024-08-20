@@ -11,13 +11,13 @@ Este foi um dos projetos do curso de HTML & CSS, projetado por <a href="https://
 <p align="center"><a href="https://willalmeid.github.io/projeto-android/">Acesse o projeto</a></p>
 
 
-## Tecnologias 🤖
+## 🤖 Tecnologias
 
 Esse projeto utilizou as seguinte tecnoloogias:
  - HTML e CSS
  - Git e GitHub
 
-## Licença 📃
+## 📃 Licença
 
 Esse projeto está sob a licença MIT.
 
