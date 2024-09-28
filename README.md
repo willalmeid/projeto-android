@@ -8,7 +8,7 @@ O Projeto Android é um site com a temática baseada no sistema operacional <str
 
 <br>
 
-Este foi um dos projetos do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+Este foi o primeiro projeto do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
 
 <br>
 
